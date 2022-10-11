@@ -36,5 +36,80 @@
             "pic":"https://allaboutethio.com/images/ethiopian-traditional-clothes-habesha-kemise-22.jpg"
         }
         
-    ]
+    ],
+    "couple":[
+        {
+            "name":"dress & shirt",
+            "details":"",
+            "size":"",
+            "price":"645",
+            "pic":"https://i.etsystatic.com/35694656/r/il/4d9419/4136797463/il_fullxfull.4136797463_1401.jpg"
+        },
+        {
+            "name":"dress & shirt",
+            "details":"red decorations",
+            "size":"",
+            "price":"650",
+            "pic":"https://www.thehabeshaweb.com/wp-content/uploads/2021/01/photo_2020-12-30_11-21-23.jpg"
+        },
+        {
+            "name":"dress & suit",
+            "details":"brown decorations",
+            "size":"",
+            "price":"700",
+            "pic":"https://i.pinimg.com/originals/bd/35/d2/bd35d28dc7ea5373dc8540e337f5d3e2.jpg"
+        },
+        {
+            "name":"dress & suit",
+            "details":"red & gold decorations",
+            "size":"",
+            "price":"750",
+            "pic":"https://www.thehabeshaweb.com/wp-content/uploads/2021/01/photo_2020-12-30_11-21-20.jpg"
+        },
+        {
+            "name":"dress & suit",
+            "details":"purple decorations",
+            "size":"",
+            "price":"750",
+            "pic":"https://i.pinimg.com/736x/39/a1/c7/39a1c751f9030dfaf60e5acdf00b01fc.jpg"
+        }
+    ],
+    "men":[
+    {
+        "name":"shirt",
+        "details":"hard blue & gold decorations",
+        "size":"l",
+        "price":"150",
+        "pic":"https://i.pinimg.com/564x/47/bb/f0/47bbf08bb4d2a7992426a7c245adfd0d.jpg"
+    },
+    {
+        "name":"shirt",
+        "details":"decorations",
+        "size":"m",
+        "price":"140",
+        "pic":"https://i.pinimg.com/236x/6c/cb/e1/6ccbe17cde77c800f69597eb2c2f68cc.jpg"
+    },
+    {
+        "name":"shirt",
+        "details":"all color decorations",
+        "size":"",
+        "price":"170",
+        "pic":"https://i.pinimg.com/736x/61/d4/40/61d4403fadaddcd0238222332a6210a2.jpg"
+    },
+    {
+        "name":"shirt",
+        "details":"gold decorations",
+        "size":"",
+        "price":"200",
+        "pic":"https://i.pinimg.com/236x/30/6d/16/306d1678d2af874a89dbf7599ba0cd55.jpg"
+    },
+    {
+        "name":"shirt",
+        "details":"brown decorations",
+        "size":"",
+        "price":"120",
+        "pic":"https://i.pinimg.com/736x/28/79/93/28799394253edf6af63051c2fa2be25a.jpg"
+    }
+]
+    
 }
