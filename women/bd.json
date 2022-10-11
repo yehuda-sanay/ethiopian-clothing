@@ -1,0 +1,40 @@
+{
+    "dress":[
+        {
+            "name":"dress",
+            "details":"red and orange decorations",
+            "size":"m",
+            "price":"235",
+            "pic":"https://i0.wp.com/ethiopiantraditionaldress.com/wp-content/uploads/2022/06/Selam-tesfaye-Ethiopian-Celebrities-Best-Dressed-Habesha-Kemis-for-2022.jpeg?fit=582%2C700&ssl=1"
+        },
+        {
+            "name":"dress",
+            "details":"yellow decorations",
+            "size":"m",
+            "price":"465",
+            "pic":"https://i0.wp.com/ethiopiantraditionaldress.com/wp-content/uploads/2022/01/hanan__tarq_Habesha_Kemis.jpeg?resize=247%2C296&ssl=1"
+        },
+        {
+            "name":"dress",
+            "details":"brown decorations",
+            "size":"s",
+            "price":"256",
+            "pic":"https://cdn.shopify.com/s/files/1/0347/7844/7917/products/ss014habeshaethiopianeriterianshibshibshopkemis-962415_533x.jpg?v=1664304118"
+        },
+        {
+            "name":"dress",
+            "details":"blue and purple decorations",
+            "size":"s",
+            "price":"426",
+            "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIL9C4gs_yLy8b8Ocx4xxW1AYxPrcGFooAFQ&usqp=CAU"
+        },
+        {
+            "name":"dress",
+            "details":"decorations",
+            "size":"s",
+            "price":"521",
+            "pic":"https://allaboutethio.com/images/ethiopian-traditional-clothes-habesha-kemise-22.jpg"
+        }
+        
+    ]
+}
