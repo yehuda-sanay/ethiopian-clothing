@@ -1,34 +1,34 @@
 {
     "women":[
-        {
+        {   "id":"1",
             "name":"dress",
             "details":"red and orange decorations",
             "size":"m",
             "price":"235",
             "pic":"https://i0.wp.com/ethiopiantraditionaldress.com/wp-content/uploads/2022/06/Selam-tesfaye-Ethiopian-Celebrities-Best-Dressed-Habesha-Kemis-for-2022.jpeg?fit=582%2C700&ssl=1"
         },
-        {
+        {   "id":"2",
             "name":"dress",
             "details":"yellow decorations",
             "size":"m",
             "price":"465",
             "pic":"https://i0.wp.com/ethiopiantraditionaldress.com/wp-content/uploads/2022/01/hanan__tarq_Habesha_Kemis.jpeg?resize=247%2C296&ssl=1"
         },
-        {
+        {   "id":"3",
             "name":"dress",
             "details":"brown decorations",
             "size":"s",
             "price":"256",
             "pic":"https://cdn.shopify.com/s/files/1/0347/7844/7917/products/ss014habeshaethiopianeriterianshibshibshopkemis-962415_533x.jpg?v=1664304118"
         },
-        {
+        {   "id":"4",
             "name":"dress",
             "details":"blue and purple decorations",
             "size":"s",
             "price":"426",
             "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIL9C4gs_yLy8b8Ocx4xxW1AYxPrcGFooAFQ&usqp=CAU"
         },
-        {
+        {   "id":"5",
             "name":"dress",
             "details":"decorations",
             "size":"s",
@@ -75,35 +75,35 @@
         }
     ],
     "men":[
-    {
+    {   "id":"1",
         "name":"shirt",
         "details":"hard blue & gold decorations",
         "size":"l",
         "price":"150",
         "pic":"https://i.pinimg.com/564x/47/bb/f0/47bbf08bb4d2a7992426a7c245adfd0d.jpg"
     },
-    {
+    {   "id":"2",
         "name":"shirt",
         "details":"decorations",
         "size":"m",
         "price":"140",
         "pic":"https://i.pinimg.com/236x/6c/cb/e1/6ccbe17cde77c800f69597eb2c2f68cc.jpg"
     },
-    {
+    {   "id":"3",
         "name":"shirt",
         "details":"all color decorations",
         "size":"",
         "price":"170",
         "pic":"https://i.pinimg.com/736x/61/d4/40/61d4403fadaddcd0238222332a6210a2.jpg"
     },
-    {
+    {   "id":"4",
         "name":"shirt",
         "details":"gold decorations",
         "size":"",
         "price":"200",
         "pic":"https://i.pinimg.com/236x/30/6d/16/306d1678d2af874a89dbf7599ba0cd55.jpg"
     },
-    {
+    {   "id":"5",
         "name":"shirt",
         "details":"brown decorations",
         "size":"",
